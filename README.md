@@ -1,3 +1,16 @@
+# Conda repo for Linear Modeling in R 
+
+[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ZianneO/Placenta_Analysis_HAPPY/HEAD)
+
+(https://mybinder.org/v2/gh/ZianneO/Placenta_Analysis_HAPPY/HEAD)
+
+A Binder-compatible repo with an `environment.yml` file.
+
+Access this Binder by clicking the blue badge above or at the following URL:
+
+((https://mybinder.org/v2/gh/ZianneO/Placenta_Analysis_HAPPY/HEAD))
+
+
 # Histology Analysis Pipeline.py (HAPPY) <img src="readme_images/HAPPYPlacenta.png" width="100" align="right" />
 
 ## Overview
